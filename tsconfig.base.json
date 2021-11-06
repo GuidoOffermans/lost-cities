@@ -15,7 +15,8 @@
 		"skipDefaultLibCheck": true,
 		"baseUrl": ".",
 		"paths": {
-			"@lost-cities/core": ["libs/core/src/index.ts"]
+			"@lost-cities/core": ["libs/core/src/index.ts"],
+			"@lost-cities/user": ["libs/user/src/index.ts"]
 		}
 	},
 	"exclude": ["node_modules", "tmp"]
